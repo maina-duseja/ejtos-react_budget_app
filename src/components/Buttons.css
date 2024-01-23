@@ -1,0 +1,16 @@
+.btn-plus {
+    color: white;
+    background-color: #4FAC5C;
+    width: 25px;
+    border-radius: 15px;
+    border: none;
+
+}
+
+.btn-minus {
+    color: white;
+    background-color: #AF2419;
+    width: 25px;
+    border: none;
+    border-radius: 15px;
+}
